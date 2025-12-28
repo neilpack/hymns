@@ -1,0 +1,14 @@
+C:\Users\orang\Documents\hymns\beta\bin\Debug\net9.0\beta.exe
+C:\Users\orang\Documents\hymns\beta\bin\Debug\net9.0\beta.deps.json
+C:\Users\orang\Documents\hymns\beta\bin\Debug\net9.0\beta.runtimeconfig.json
+C:\Users\orang\Documents\hymns\beta\bin\Debug\net9.0\beta.dll
+C:\Users\orang\Documents\hymns\beta\bin\Debug\net9.0\beta.pdb
+C:\Users\orang\Documents\hymns\beta\obj\Debug\net9.0\beta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orang\Documents\hymns\beta\obj\Debug\net9.0\beta.AssemblyInfoInputs.cache
+C:\Users\orang\Documents\hymns\beta\obj\Debug\net9.0\beta.AssemblyInfo.cs
+C:\Users\orang\Documents\hymns\beta\obj\Debug\net9.0\beta.csproj.CoreCompileInputs.cache
+C:\Users\orang\Documents\hymns\beta\obj\Debug\net9.0\beta.dll
+C:\Users\orang\Documents\hymns\beta\obj\Debug\net9.0\refint\beta.dll
+C:\Users\orang\Documents\hymns\beta\obj\Debug\net9.0\beta.pdb
+C:\Users\orang\Documents\hymns\beta\obj\Debug\net9.0\beta.genruntimeconfig.cache
+C:\Users\orang\Documents\hymns\beta\obj\Debug\net9.0\ref\beta.dll
